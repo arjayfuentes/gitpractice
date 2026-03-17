@@ -6,5 +6,8 @@ public class GitPractice {
         System.out.println("Hello World");
 
         System.out.println("Added Feature 1");
+
+        System.out.println("Added Feature 2 from arjay2489");
+
     }
 }
