@@ -10,5 +10,7 @@ public class GitPractice {
         System.out.println("Added Feature 2 from arjay2489");
 
         System.out.println("Added Feature from arjay2489");
+
+        System.out.println("Added Feature from arjay630");
     }
 }
